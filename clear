@@ -1,0 +1,77 @@
+[33mcommit cafb6cae3efb8d29311e99d9dbd85bb54425ee85[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: marco yoshi <kallel777@gmail.com>
+Date:   Sat Oct 10 17:38:53 2020 -0300
+
+    foi criado o gitignore
+
+[33mcommit ac80f2345f0b044133901c58d3a15deadff9e309[m
+Author: marco yoshi <kallel777@gmail.com>
+Date:   Sat Oct 10 16:26:54 2020 -0300
+
+    Modifiquei o README e adicionei algumas linha
+
+[33mcommit f1edfbcaa2aa3f6f90316b0ae9de0568596953ff[m
+Author: marco yoshi <kallel777@gmail.com>
+Date:   Fri Oct 9 22:47:12 2020 -0300
+
+    modificação no index.css
+
+[33mcommit d19fe18f3c4f53d474f7beee9fe760603adb431b[m
+Author: marco yoshi <kallel777@gmail.com>
+Date:   Fri Oct 9 22:42:23 2020 -0300
+
+    foi colocado mais uma linha, mais um css e um js
+
+[33mcommit b2684e23bc10e90b2b9d2bdab47a3c9589cfba22[m
+Author: marco yoshi <kallel777@gmail.com>
+Date:   Fri Oct 9 18:19:20 2020 -0300
+
+    Deletei o html e mudei o nome dele
+
+[33mcommit 4be075c7d50749b9cc6fb5ad150fc4cc803ef39b[m
+Author: marco yoshi <kallel777@gmail.com>
+Date:   Fri Oct 9 17:43:30 2020 -0300
+
+    Adicionei duas linha, apaguei uma e deletei o html
+
+[33mcommit 159c573b9439660f3d8e1ab67c1e461bb61cce4e[m
+Author: marco yoshi <kallel777@gmail.com>
+Date:   Fri Oct 9 17:17:09 2020 -0300
+
+    Deletei o Cls e criei o arquivo python e apaguei uma linha de comando
+
+[33mcommit 917fb8f6dab28af25c4fc17c10df3398429c2a0e[m
+Author: marco yoshi <kallel777@gmail.com>
+Date:   Fri Oct 9 16:56:10 2020 -0300
+
+    Foi criado o arquivo cls
+
+[33mcommit 5be6408ac45953cdf1145f16eb8b0593a2cdbac9[m
+Author: marco yoshi <kallel777@gmail.com>
+Date:   Fri Oct 9 16:27:26 2020 -0300
+
+    Foi feita outra alteracao no README
+
+[33mcommit 0372b87664d1cafe71656c8a596be7252c7753f4[m
+Author: marco yoshi <kallel777@gmail.com>
+Date:   Fri Oct 9 15:46:04 2020 -0300
+
+    Adicionei uma nova linha
+
+[33mcommit c6970ce355d178c03e7b3e9c029a72a765e13471[m
+Author: marco yoshi <kallel777@gmail.com>
+Date:   Wed Oct 7 22:07:35 2020 -0300
+
+    Adionei deletei o styles e alterei o README
+
+[33mcommit 91ba00b1bbdce01cc63a8837926e9fb540446bc0[m
+Author: marco yoshi <kallel777@gmail.com>
+Date:   Wed Oct 7 21:45:16 2020 -0300
+
+    Criando os arquivos principais, o Index e o styles, bem como modificando o README.
+
+[33mcommit 0aebf51639b913a3948333806b77821a462b5d41[m
+Author: marco yoshi <kallel777@gmail.com>
+Date:   Wed Oct 7 21:08:58 2020 -0300
+
+    Primeiro Commit
